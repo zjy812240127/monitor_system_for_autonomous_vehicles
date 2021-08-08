@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe3fbf29-f1cd-4227-a3a3-c00ead8bca40" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ali_Cloud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/研究生/软著/智能移动车辆平台通信上位机界面系统/Source_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ali_Server_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <folding>
+                <element signature="e#261#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aski</find>
+      <find>askimage_method</find>
+      <find>print</find>
+      <find>askimageFlag</find>
+      <find>wgs84_to_bd09_change</find>
+      <find>Thread</find>
+      <find>weather</find>
+      <find>ID_M</find>
+      <find>MySQL</find>
+      <find>客户端发送的数据是</find>
+      <find>data_from_up</find>
+      <find>data_from_up_state</find>
+      <find>unpack</find>
+      <find>pack</find>
+      <find>tcp_socket</find>
+      <find>!</find>
+      <find>tcp_server_car</find>
+      <find>x8 ==1</find>
+      <find>x8 == 2</find>
+      <find>x8 == 3</find>
+      <find>x9 == 1</find>
+      <find>x9 == 2</find>
+      <find>x9 == 3</find>
+      <find>ID</find>
+      <find>ti = threading.Thread(target=fun_time, ar</find>
+      <find>file</find>
+      <find>readline</find>
+      <find>readl</find>
+      <find>file_</find>
+      <find>^\s*\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../TCP 10 30/main.py" />
+        <option value="$PROJECT_DIR$/../TCP 10 30/main v2.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main_client.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main v2.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main v3_tanhao.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main v3.py" />
+        <option value="$PROJECT_DIR$/../TCP/TCP_client learning.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/TCP_client learning.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main v3_jiancebaotou.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 2/main_client_v3_jiancebaotou.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 5 v2/send_img.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 5 v2/main v4_image.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 5 v2/main_client_v4_jiancebaotou.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 5 v2/main v4_image_autoask.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 7/TCP_client learning.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 7/main v4_image_autoask.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 7/main_client_v4_jiancebaotou_autoask.py" />
+        <option value="$USER_HOME$/Desktop/Ali_Server.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 6/main v4_image_autoask.py" />
+        <option value="$PROJECT_DIR$/Ali_Server.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 6/main_client_v4_jiancebaotou_autoask.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v2.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v3.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 8/main_client_v4_jiancebaotou_autoask.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v5.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 8/main v4_image_autoask.py" />
+        <option value="$PROJECT_DIR$/MySQL_cloud.py" />
+        <option value="$PROJECT_DIR$/MySQL_cloud_insert.py" />
+        <option value="$PROJECT_DIR$/MySQL_search.py" />
+        <option value="$PROJECT_DIR$/MySQL_State.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 15/main_client_v6_MySQL.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v9_log.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v9_log_tanhao.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 15/main_client_v6_MySQL_tanhao.py" />
+        <option value="E:/研究生/实验平台/上位机/TCP 11 27/main_client_v7_11 27.py" />
+        <option value="$PROJECT_DIR$/.idea/MultiCar_test.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v10 MultiCar.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 30_MultiCar/main_client_v7_MySQL_MultiUI.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v11_2Car.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v11_2Car_tanhao.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v10 MultiCar_MultiThread.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v10 MultiCar_MultiThread_tanhao.py" />
+        <option value="$PROJECT_DIR$/../TCP 11 30_MultiCar/main_client_v7_MySQL_MultiUI_tanhao.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v11_10Car_tanhao.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v12_10Car_tanhao_Eficiency.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v11_10Car.py" />
+        <option value="$PROJECT_DIR$/Ali_Server_v12_ImageThread.py" />
+        <option value="$PROJECT_DIR$/MySQL_lng_lat.py" />
+        <option value="$PROJECT_DIR$/Xftp6DragDropSupportDir30918368/Source.py" />
+        <option value="E:/研究生/软著/智能移动车辆平台通信上位机界面系统/Source_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Ali_Cloud 12 4 MultiCar_Final" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\pycharm_project\Ali_Cloud 12 4 MultiCar_Final" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Ali_Cloud 12 4 MultiCar_Final" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\pycharm_project\Ali_Cloud 12 4 MultiCar_Final" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Xftp6DragDropSupportDir30918368" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TCP 12 8_MultiCar_Final_V3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Source">
+    <configuration name="MySQL_State" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ali_Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL_State.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MySQL_lng_lat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ali_Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL_lng_lat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Source" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ali_Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xftp6DragDropSupportDir30918368" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xftp6DragDropSupportDir30918368/Source.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Source_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ali_Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/研究生/软著/智能移动车辆平台通信上位机界面系统" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/研究生/软著/智能移动车辆平台通信上位机界面系统/Source_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ali_Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Source" />
+        <item itemvalue="Python.Source_test" />
+        <item itemvalue="Python.MySQL_State" />
+        <item itemvalue="Python.MySQL_lng_lat" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3fbf29-f1cd-4227-a3a3-c00ead8bca40" name="默认更改列表" comment="" />
+      <created>1604220357094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604220357094</updated>
+      <workItem from="1604220358615" duration="9616000" />
+      <workItem from="1604301973318" duration="9561000" />
+      <workItem from="1604363322200" duration="14810000" />
+      <workItem from="1604412376048" duration="601000" />
+      <workItem from="1604471426642" duration="20692000" />
+      <workItem from="1604535214403" duration="34195000" />
+      <workItem from="1604623320408" duration="10862000" />
+      <workItem from="1604795770369" duration="26989000" />
+      <workItem from="1604888294396" duration="30328000" />
+      <workItem from="1605402723244" duration="7030000" />
+      <workItem from="1605439803646" duration="3396000" />
+      <workItem from="1605687299611" duration="727000" />
+      <workItem from="1606264272795" duration="7715000" />
+      <workItem from="1606396274985" duration="2922000" />
+      <workItem from="1606783738691" duration="24789000" />
+      <workItem from="1606826569717" duration="632000" />
+      <workItem from="1606868027718" duration="6060000" />
+      <workItem from="1606887461463" duration="7281000" />
+      <workItem from="1606958885235" duration="284000" />
+      <workItem from="1606978209792" duration="10831000" />
+      <workItem from="1607041996282" duration="570000" />
+      <workItem from="1607042610660" duration="5292000" />
+      <workItem from="1607086158225" duration="3808000" />
+      <workItem from="1607259364813" duration="598000" />
+      <workItem from="1607304872834" duration="2561000" />
+      <workItem from="1607386911122" duration="5627000" />
+      <workItem from="1607475979781" duration="1206000" />
+      <workItem from="1607565388365" duration="1155000" />
+      <workItem from="1607654465683" duration="6217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="256355000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45964125" visible="true" weight="0.2730711" />
+      <window_info id="Structure" order="1" sideWeight="0.5403587" side_tool="true" weight="0.2730711" />
+      <window_info id="Favorites" order="2" sideWeight="0.501634" side_tool="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3251634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4493464" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32843137" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.3006536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45964125" visible="true" weight="0.2730711" />
+      <window_info id="Structure" order="1" sideWeight="0.5403587" side_tool="true" visible="true" weight="0.2730711" />
+      <window_info id="Favorites" order="2" sideWeight="0.501634" side_tool="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.27124184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4493464" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32843137" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.3006536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ali_Cloud$send_img.coverage" NAME="send_img Coverage Results" MODIFIED="1604561917311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 5 v2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$TCP_client_learning__1_.coverage" NAME="TCP_client learning (1) Coverage Results" MODIFIED="1604538995789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$MySQL_lng_lat.coverage" NAME="MySQL_lng_lat Coverage Results" MODIFIED="1606399046833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/研究生/实验平台/上位机/Ali_Cloud 11 27" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client_v4_jiancebaotou_autoask__2_.coverage" NAME="main_client_v4_jiancebaotou_autoask (2) Coverage Results" MODIFIED="1604928864415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 8" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v3_tanhao.coverage" NAME="main v3_tanhao Coverage Results" MODIFIED="1604485240611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v4_image_autoask__1_.coverage" NAME="main v4_image_autoask (1) Coverage Results" MODIFIED="1604925834510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 8" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_2_MultiCar_Final$test.coverage" NAME="test Coverage Results" MODIFIED="1606999232314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client.coverage" NAME="main_client Coverage Results" MODIFIED="1604234073314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 10 30" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$Ali_Server_v9_log_tanhao.coverage" NAME="Ali_Server_v9_log_tanhao Coverage Results" MODIFIED="1605441489014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_1_MultiCar$Ali_Server_v11_2Car.coverage" NAME="Ali_Server_v11_2Car Coverage Results" MODIFIED="1606808321728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v2__1_.coverage" NAME="main v2 (1) Coverage Results" MODIFIED="1604473850147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_1_MultiCar$Ali_Server_v9_log_tanhao.coverage" NAME="Ali_Server_v9_log_tanhao Coverage Results" MODIFIED="1606807165486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_4_MultiCar_Final$MySQL_State.coverage" NAME="MySQL_State Coverage Results" MODIFIED="1607565964493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$main_client_v6_MySQL.coverage" NAME="main_client_v6_MySQL Coverage Results" MODIFIED="1606278944546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 15" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$Ali_Server.coverage" NAME="Ali_Server Coverage Results" MODIFIED="1604834679905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v4_image_autoask__2_.coverage" NAME="main v4_image_autoask (2) Coverage Results" MODIFIED="1604803007655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 7" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_1_MultiCar$main_client_v7_MySQL_MultiUI.coverage" NAME="main_client_v7_MySQL_MultiUI Coverage Results" MODIFIED="1606808627119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 30_MultiCar" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client_v4_jiancebaotou.coverage" NAME="main_client_v4_jiancebaotou Coverage Results" MODIFIED="1604586723905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 5 v2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v2.coverage" NAME="main v2 Coverage Results" MODIFIED="1604320387307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 10 30" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$Ali_Server_v9_log_tanhao__1_.coverage" NAME="Ali_Server_v9_log_tanhao (1) Coverage Results" MODIFIED="1606278869592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/研究生/实验平台/上位机/Ali_Cloud 11 15" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1604367867987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 10 25" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client_v4_jiancebaotou_autoask.coverage" NAME="main_client_v4_jiancebaotou_autoask Coverage Results" MODIFIED="1604836373700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 6" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_4_MultiCar_Final$Source_test.coverage" NAME="Source_test Coverage Results" MODIFIED="1607662161541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/研究生/软著/智能移动车辆平台通信上位机界面系统" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v3.coverage" NAME="main v3 Coverage Results" MODIFIED="1604488524791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v4_image.coverage" NAME="main v4_image Coverage Results" MODIFIED="1604586153988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 5 v2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$main_client_v6_MySQL_tanhao.coverage" NAME="main_client_v6_MySQL_tanhao Coverage Results" MODIFIED="1606278884506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 15" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$MySQL_State.coverage" NAME="MySQL_State Coverage Results" MODIFIED="1606399005623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/研究生/实验平台/上位机/Ali_Cloud 11 27" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v4_image_autoask.coverage" NAME="main v4_image_autoask Coverage Results" MODIFIED="1604834240087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 6" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_1_MultiCar$main_client_v7_MySQL_MultiUI_tanhao.coverage" NAME="main_client_v7_MySQL_MultiUI_tanhao Coverage Results" MODIFIED="1606818505820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 30_MultiCar" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client_v3_jiancebaotou.coverage" NAME="main_client_v3_jiancebaotou Coverage Results" MODIFIED="1604538983355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_1_MultiCar$main_client_v6_MySQL_tanhao.coverage" NAME="main_client_v6_MySQL_tanhao Coverage Results" MODIFIED="1606812568069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 30_MultiCar" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_client_v4_jiancebaotou_autoask__1_.coverage" NAME="main_client_v4_jiancebaotou_autoask (1) Coverage Results" MODIFIED="1604815941037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 7" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_9$MySQL_cloud.coverage" NAME="MySQL_cloud Coverage Results" MODIFIED="1605407194029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_11_15$main_v5_image_autoask_MySQL.coverage" NAME="main v5_image_autoask_MySQL Coverage Results" MODIFIED="1606278978448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 15" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$TCP_client_learning.coverage" NAME="TCP_client learning Coverage Results" MODIFIED="1604799905896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 7" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_4_MultiCar_Final$MySQL_lng_lat.coverage" NAME="MySQL_lng_lat Coverage Results" MODIFIED="1607565864274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main_v3_jiancebaotou.coverage" NAME="main v3_jiancebaotou Coverage Results" MODIFIED="1604544837564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 11 2" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud$main.coverage" NAME="main Coverage Results" MODIFIED="1604657375189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TCP 10 25" />
+    <SUITE FILE_PATH="coverage/Ali_Cloud_12_4_MultiCar_Final$Source.coverage" NAME="Source Coverage Results" MODIFIED="1607662243056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xftp6DragDropSupportDir30918368" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../TCP 11 8/main_client_v4_jiancebaotou_autoask.py" />
+    <entry file="file://$PROJECT_DIR$/MySQL_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 10/main v4_image_autoask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="435" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 10/wgs84_to_bd09_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_cloud_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 10/main_client_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_cloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="25" column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v5_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/TCP 11 15/weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 15/Ali_Server_v9_log_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="73" column="62" lean-forward="true" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 15/main_client_v6_MySQL_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#646#1710#0" />
+            <element signature="e#2205#2352#0" />
+            <element signature="e#2381#2531#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 15/main_client_v6_MySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="250" column="23" selection-start-line="250" selection-start-column="23" selection-end-line="250" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 15/main v5_image_autoask_MySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="428" column="44" lean-forward="true" selection-start-line="428" selection-start-column="44" selection-end-line="428" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 15/MySQL_cloud_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 15/MySQL_State.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/TCP 11 15/main_client_v6_MySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="437" column="49" selection-start-line="437" selection-start-column="49" selection-end-line="437" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anoconda2019/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 27/MySQL_lng_lat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 27/MySQL_State.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v10 MultiCar.py" />
+    <entry file="file://$PROJECT_DIR$/.idea/MultiCar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/Ali_Cloud 11 27/Ali_Server_v10 11 27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/实验平台/上位机/TCP 11 27/main_client_v7_11 27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="501" column="19" selection-start-line="501" selection-start-column="19" selection-end-line="501" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v11.py" />
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v9_log_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5590">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v11_2Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+          <folding>
+            <element signature="e#418#824#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v10 MultiCar_MultiThread.py" />
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v9_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2241">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v10 MultiCar_MultiThread_tanhao.py" />
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v11_2Car_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="70" column="68" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
+          <folding>
+            <element signature="e#5054#5498#0" />
+            <element signature="e#5605#10065#0" />
+            <element signature="e#10191#10527#0" />
+            <element signature="e#10731#14870#0" />
+            <element signature="e#15022#15408#0" />
+            <element signature="e#15526#20214#0" />
+            <element signature="e#20267#20647#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 30_MultiCar/main_client_v6_MySQL_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4131">
+          <caret line="201" column="54" lean-forward="true" selection-start-line="201" selection-start-column="54" selection-end-line="201" selection-end-column="54" />
+          <folding>
+            <element signature="e#676#1740#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 30_MultiCar/main_client_v7_MySQL_MultiUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16308">
+          <caret line="731" lean-forward="true" selection-start-line="731" selection-end-line="731" />
+          <folding>
+            <element signature="e#80396#120214#0" />
+            <element signature="e#120271#160090#0" />
+            <element signature="e#160147#199966#0" />
+            <element signature="e#200023#239842#0" />
+            <element signature="e#239899#279718#0" />
+            <element signature="e#279775#319594#0" />
+            <element signature="e#319651#359470#0" />
+            <element signature="e#359528#399396#0" />
+            <element signature="e#399480#422368#0" />
+            <element signature="e#422409#445028#0" />
+            <element signature="e#445068#467683#0" />
+            <element signature="e#467723#490338#0" />
+            <element signature="e#490378#512993#0" />
+            <element signature="e#513033#535648#0" />
+            <element signature="e#535690#558307#0" />
+            <element signature="e#558348#580964#0" />
+            <element signature="e#581004#603619#0" />
+            <element signature="e#603660#626299#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 11 30_MultiCar/main_client_v7_MySQL_MultiUI_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2855" column="12" selection-start-line="2855" selection-start-column="12" selection-end-line="2855" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v11_10Car_tanhao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="2435" lean-forward="true" selection-start-line="2435" selection-end-line="2435" />
+          <folding>
+            <element signature="e#937#4929#0" />
+            <element signature="e#5062#5506#0" />
+            <element signature="e#5613#10077#0" />
+            <element signature="e#10203#10539#0" />
+            <element signature="e#10743#14811#0" />
+            <element signature="e#14959#15337#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anoconda2019/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiCar_Change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v12_10Car_tanhao_Eficiency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="2302" column="29" lean-forward="true" selection-start-line="2302" selection-start-column="29" selection-end-line="2302" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/../TCP 12 8_MultiCar_Final_V2/main_client_v8_10Car_tanhao.py" />
+    <entry file="file://$PROJECT_DIR$/MySQL_State.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL_lng_lat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v12_ImageThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="2750" selection-start-line="2750" selection-end-line="2750" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v11_10Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 12 8_MultiCar_Final_V3/main_client_v9_NoThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="277" column="80" lean-forward="true" selection-start-line="277" selection-start-column="80" selection-end-line="277" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anoconda2019/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xftp6DragDropSupportDir30918368/Source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP 12 2_MultiCar_Final/main_client_v8_10Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="204" column="82" lean-forward="true" selection-start-line="204" selection-start-column="82" selection-end-line="204" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/研究生/软著/智能移动车辆平台通信上位机界面系统/Source_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ali_Server_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#261#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
